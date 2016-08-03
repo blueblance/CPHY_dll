@@ -1,2 +1,2 @@
-將C_PHY decode function包成dll
-並導入版控
+cphy_function add to dll
+create vision control 
